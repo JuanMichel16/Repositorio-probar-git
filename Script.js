@@ -56,3 +56,13 @@ for(i=0;i<10;i+=1){
 }
 
 let rama3="Que te importa prro made fake";
+
+let rama3="Que te importa prro made fake";
+
+let rama3="Que te importa prro made fake";
+
+let rama3="Que te importa prro made fake";
+let rama3="Que te importa prro made fake";
+
+let rama3="Que te importa prro made fake";
+let rama3="Que te importa prro made fake";
